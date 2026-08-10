@@ -60,12 +60,4 @@ Develop scalable SaaS platforms, MVPs, backend systems, APIs, internal tools, an
 
 ---
 
-## Connect
-
-- Website: https://syedhassanali.com
-- Email: hassan@syedhassanali.com
-- LinkedIn: https://linkedin.com/in/syeddhassannaali
-
----
-
 > Systems-first engineering focused on automation, scalability, operational efficiency, and long-term business infrastructure.
