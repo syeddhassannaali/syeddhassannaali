@@ -1,9 +1,5 @@
 ![Syed Hassan Ali Banner](/assets/og-banner.png)
 
-# Syed Hassan Ali
-
-**Full Stack Software Engineer**
-
 I build web applications, SaaS platforms, AI automations, and backend systems, with a focus on performance, security, and maintainability.
 
 I work across the full development process, from system architecture and implementation to deployment and ongoing improvements.
